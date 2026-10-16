@@ -1,0 +1,45 @@
+{
+  "trained_at": "2026-08-21T20:16:13.384299+00:00",
+  "random_seed": 42,
+  "n_samples": 3000,
+  "n_train": 2400,
+  "n_test": 600,
+  "validation": {
+    "mae": 3.3443804427114494,
+    "rmse": 4.20224933011328,
+    "r2": 0.9516180403613659
+  },
+  "feature_importance": {
+    "case_age_years": 0.31110844016075134,
+    "involves_domestic_violence": 0.2508476972579956,
+    "is_murder_appeal": 0.17160619795322418,
+    "involves_minor": 0.11309099197387695,
+    "adjournment_count": 0.056219734251499176,
+    "type_criminal": 0.04240643233060837,
+    "type_family": 0.022667719051241875,
+    "type_civil": 0.010604610666632652,
+    "type_commercial": 0.010084716603159904,
+    "region_Dhaka": 0.002529161749407649,
+    "region_Rural": 0.0025058542378246784,
+    "hearing_count": 0.002354032127186656,
+    "region_Mymensingh": 0.0021556527353823185,
+    "region_Rangpur": 0.001818823511712253
+  },
+  "feature_names": [
+    "case_age_years",
+    "hearing_count",
+    "adjournment_count",
+    "involves_minor",
+    "involves_domestic_violence",
+    "is_murder_appeal",
+    "type_criminal",
+    "type_civil",
+    "type_family",
+    "type_commercial",
+    "region_Dhaka",
+    "region_Mymensingh",
+    "region_Rangpur",
+    "region_Rural"
+  ],
+  "model": "XGBRegressor(n_estimators=150, max_depth=4, learning_rate=0.08)"
+}

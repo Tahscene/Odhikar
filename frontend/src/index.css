@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Hind Siliguri", sans-serif;
+  background-color: #F0EDE7;
+  color: #0A1628;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+@layer components {
+  .input {
+    @apply w-full rounded-md border border-bdgreen/20 bg-white px-3 py-2 text-sm
+           focus:outline-none focus:ring-2 focus:ring-bdgreen/40 focus:border-bdgreen;
+  }
+  .btn-primary {
+    @apply bg-bdgreen text-white text-sm font-semibold rounded-md py-2.5
+           hover:bg-bdgreen-dark transition-colors disabled:opacity-50;
+  }
+}

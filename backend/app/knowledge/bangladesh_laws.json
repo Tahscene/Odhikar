@@ -1,0 +1,136 @@
+[
+  {
+    "id": "pca_1860",
+    "title": "The Penal Code, 1860",
+    "title_bn": "দণ্ডবিধি, ১৮৬০",
+    "category": "criminal",
+    "sections": [
+      {"section": "299-304", "topic": "Culpable homicide and murder", "topic_bn": "দোষী নরহত্যা ও হত্যা", "summary": "Defines culpable homicide, murder, and their punishments. Section 302 prescribes death or life imprisonment for murder."},
+      {"section": "319-338", "topic": "Hurt and grievous hurt", "topic_bn": "আঘাত ও গুরুতর আঘাত", "summary": "Defines various degrees of physical harm and their punishments."},
+      {"section": "375-376", "topic": "Rape", "topic_bn": "ধর্ষণ", "summary": "Defines rape and prescribes punishment of life imprisonment or up to 10 years."},
+      {"section": "378-382", "topic": "Theft", "topic_bn": "চুরি", "summary": "Defines theft and its aggravated forms with punishments."},
+      {"section": "383-389", "topic": "Extortion", "topic_bn": "চাঁদাবাজি", "summary": "Defines extortion and punishments up to 3 years imprisonment."},
+      {"section": "390-402", "topic": "Robbery and dacoity", "topic_bn": "ডাকাতি", "summary": "Defines robbery, dacoity and their punishments including death for dacoity with murder."},
+      {"section": "403-404", "topic": "Misappropriation", "topic_bn": "আত্মসাৎ", "summary": "Defines dishonest misappropriation of property."},
+      {"section": "405-409", "topic": "Criminal breach of trust", "topic_bn": "বিশ্বাসঘাতকতা", "summary": "Defines criminal breach of trust by public servants and others."},
+      {"section": "463-471", "topic": "Forgery", "topic_bn": "জালিয়াতি", "summary": "Defines forgery of documents, currency, and their punishments."},
+      {"section": "497", "topic": "Adultery", "topic_bn": "ব্যভিচার", "summary": "Deals with adultery as a criminal offense."},
+      {"section": "499-502", "topic": "Defamation", "topic_bn": "মানহানি", "summary": "Defines defamation and its exceptions and punishments."}
+    ]
+  },
+  {
+    "id": "crpc_1898",
+    "title": "Code of Criminal Procedure, 1898",
+    "title_bn": "ফৌজদারি কার্যবিধি, ১৮৯৮",
+    "category": "criminal",
+    "sections": [
+      {"section": "154", "topic": "First Information Report (FIR)", "topic_bn": "এজাহার", "summary": "Procedure for filing FIR at police station. Any person can file."},
+      {"section": "161", "topic": "Examination of witnesses by police", "topic_bn": "পুলিশ কর্তৃক সাক্ষী জিজ্ঞাসাবাদ", "summary": "Police may examine witnesses during investigation."},
+      {"section": "167", "topic": "Remand", "topic_bn": "রিমান্ড", "summary": "Magistrate may authorize detention of accused for up to 15 days."},
+      {"section": "265C-265L", "topic": "Plea bargaining", "topic_bn": "দরকষাকষি", "summary": "Provisions for plea bargaining in certain cases."},
+      {"section": "345", "topic": "Procedure for contempt of court", "topic_bn": "আদালত অবমাননা", "summary": "Procedure when contempt is committed in the face of the court."},
+      {"section": "401", "topic": "Power to suspend or remit sentences", "topic_bn": "দণ্ড স্থগিত", "summary": "Government power to suspend or remit sentences."},
+      {"section": "426", "topic": "Suspension of sentence pending appeal", "topic_bn": "আপিলে দণ্ড স্থগিত", "summary": "Court may suspend sentence and release convict on bail during appeal."},
+      {"section": "439", "topic": "Bail", "topic_bn": "জামিন", "summary": "High Court or Sessions Judge may grant bail."}
+    ]
+  },
+  {
+    "id": "evidence_1872",
+    "title": "The Evidence Act, 1872",
+    "title_bn": "সাক্ষ্য আইন, ১৮৭২",
+    "category": "civil",
+    "sections": [
+      {"section": "101-104", "topic": "Burden of proof", "topic_bn": "প্রমাণের দায়ভার", "summary": "The burden of proof lies on the person who asserts a fact."},
+      {"section": "59-60", "topic": "Oral evidence", "topic_bn": "মৌখিক সাক্ষ্য", "summary": "Rules regarding oral evidence and its admissibility."},
+      {"section": "61-73", "topic": "Documentary evidence", "topic_bn": "দলিলভিত্তিক সাক্ষ্য", "summary": "Rules regarding primary and secondary evidence of documents."},
+      {"section": "24-30", "topic": "Confessions", "topic_bn": "স্বীকারোক্তি", "summary": "Admissibility of confessions. Confession to police not admissible under Section 25."}
+    ]
+  },
+  {
+    "id": "dvpa_2010",
+    "title": "Domestic Violence (Prevention and Protection) Act, 2010",
+    "title_bn": "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০",
+    "category": "family",
+    "sections": [
+      {"section": "3", "topic": "Definition of domestic violence", "topic_bn": "পারিবারিক সহিংসতার সংজ্ঞা", "summary": "Physical, psychological, sexual, and economic abuse within domestic relationships."},
+      {"section": "4-7", "topic": "Protection orders", "topic_bn": "সুরক্ষা আদেশ", "summary": "Courts may issue protection orders, residence orders, and monetary relief."},
+      {"section": "14", "topic": "Duties of enforcement officers", "topic_bn": "প্রয়োগকারী কর্মকর্তার দায়িত্ব", "summary": "Officers must assist victims in filing complaints and accessing shelters."},
+      {"section": "30", "topic": "Penalty for breach", "topic_bn": "লঙ্ঘনের শাস্তি", "summary": "Breach of protection order punishable with imprisonment up to 1 year."}
+    ]
+  },
+  {
+    "id": "nwca_2000",
+    "title": "Nari O Shishu Nirjatan Daman Ain, 2000",
+    "title_bn": "নারী ও শিশু নির্যাতন দমন আইন, ২০০০",
+    "category": "criminal",
+    "sections": [
+      {"section": "4-6", "topic": "Trafficking and kidnapping", "topic_bn": "পাচার ও অপহরণ", "summary": "Punishment for trafficking and kidnapping of women and children."},
+      {"section": "9", "topic": "Rape", "topic_bn": "ধর্ষণ", "summary": "Enhanced punishment for rape. Death penalty or life imprisonment."},
+      {"section": "10", "topic": "Sexual harassment", "topic_bn": "যৌন হয়রানি", "summary": "Punishment for sexual harassment of women and children."},
+      {"section": "11", "topic": "Dowry-related violence", "topic_bn": "যৌতুক সংক্রান্ত সহিংসতা", "summary": "Punishment for causing death or injury for dowry. Death or life imprisonment."}
+    ]
+  },
+  {
+    "id": "cpc_1908",
+    "title": "Code of Civil Procedure, 1908",
+    "title_bn": "দেওয়ানি কার্যবিধি, ১৯০৮",
+    "category": "civil",
+    "sections": [
+      {"section": "Order VII", "topic": "Plaint", "topic_bn": "আরজি", "summary": "Requirements for filing a plaint (civil suit)."},
+      {"section": "Order IX", "topic": "Appearance and non-appearance", "topic_bn": "উপস্থিতি", "summary": "Consequences of non-appearance including ex parte decree."},
+      {"section": "Order XXI", "topic": "Execution of decrees", "topic_bn": "ডিক্রি কার্যকর", "summary": "Procedure for execution of civil court decrees."},
+      {"section": "Order XXXIX", "topic": "Temporary injunctions", "topic_bn": "অস্থায়ী নিষেধাজ্ঞা", "summary": "Court may grant temporary injunctions to prevent injury to plaintiff."},
+      {"section": "Section 9", "topic": "Courts to try all civil suits", "topic_bn": "দেওয়ানি মোকদ্দমার বিচার", "summary": "Civil courts have jurisdiction to try all suits of civil nature."},
+      {"section": "Section 96", "topic": "Appeal from original decree", "topic_bn": "মূল ডিক্রি থেকে আপিল", "summary": "Appeal lies from every original decree unless barred."}
+    ]
+  },
+  {
+    "id": "sa_1882",
+    "title": "Transfer of Property Act, 1882",
+    "title_bn": "সম্পত্তি হস্তান্তর আইন, ১৮৮২",
+    "category": "civil",
+    "sections": [
+      {"section": "5", "topic": "Transfer of property defined", "topic_bn": "সম্পত্তি হস্তান্তরের সংজ্ঞা", "summary": "A living person can transfer property to another living person or entity."},
+      {"section": "54", "topic": "Sale", "topic_bn": "বিক্রয়", "summary": "Sale is transfer of ownership for a price. Requires registered document for immovable property over 100 taka."},
+      {"section": "58-67", "topic": "Mortgage", "topic_bn": "বন্ধক", "summary": "Transfer of interest in property to secure payment of money."},
+      {"section": "105-117", "topic": "Leases", "topic_bn": "ইজারা", "summary": "Transfer of right to enjoy immovable property for a certain time."}
+    ]
+  },
+  {
+    "id": "mfl_1961",
+    "title": "Muslim Family Laws Ordinance, 1961",
+    "title_bn": "মুসলিম পারিবারিক আইন অধ্যাদেশ, ১৯৬১",
+    "category": "family",
+    "sections": [
+      {"section": "4", "topic": "Succession", "topic_bn": "উত্তরাধিকার", "summary": "Rules of succession and shares of heirs."},
+      {"section": "6", "topic": "Polygamy", "topic_bn": "বহুবিবাহ", "summary": "Requires permission of Arbitration Council for second marriage."},
+      {"section": "7", "topic": "Talaq", "topic_bn": "তালাক", "summary": "Procedure for divorce. Written notice to Chairman required. 90 days notice period."},
+      {"section": "9", "topic": "Maintenance", "topic_bn": "ভরণপোষণ", "summary": "Husband must maintain wife during marriage and iddat period."},
+      {"section": "10", "topic": "Dower (Mehr)", "topic_bn": "দেনমোহর", "summary": "Dower is payable on demand. If not fixed, proper dower applies."}
+    ]
+  },
+  {
+    "id": "la_1894",
+    "title": "Land Acquisition Act, 1894 (as amended)",
+    "title_bn": "ভূমি অধিগ্রহণ আইন, ১৮৯৪",
+    "category": "civil",
+    "sections": [
+      {"section": "4", "topic": "Publication of preliminary notification", "topic_bn": "প্রাথমিক বিজ্ঞপ্তি", "summary": "Government publishes notification of intent to acquire land."},
+      {"section": "6", "topic": "Declaration of acquisition", "topic_bn": "অধিগ্রহণের ঘোষণা", "summary": "Formal declaration that land is needed for public purpose."},
+      {"section": "11", "topic": "Enquiry and award", "topic_bn": "তদন্ত ও রোয়েদাদ", "summary": "Collector makes award of compensation."},
+      {"section": "18", "topic": "Reference to court", "topic_bn": "আদালতে রেফারেন্স", "summary": "Person dissatisfied with award may seek reference to court."}
+    ]
+  },
+  {
+    "id": "lab_2006",
+    "title": "Bangladesh Labour Act, 2006",
+    "title_bn": "বাংলাদেশ শ্রম আইন, ২০০৬",
+    "category": "commercial",
+    "sections": [
+      {"section": "27", "topic": "Payment of wages", "topic_bn": "মজুরি প্রদান", "summary": "Wages must be paid within 7 working days of the wage period."},
+      {"section": "100-119", "topic": "Working hours and leave", "topic_bn": "কর্মঘণ্টা ও ছুটি", "summary": "Maximum 8 hours daily, 48 hours weekly. Annual leave of 1 day per 18 days worked."},
+      {"section": "150-165", "topic": "Trade unions", "topic_bn": "শ্রমিক সংগঠন", "summary": "Workers right to form and join trade unions."},
+      {"section": "232-270", "topic": "Labour court", "topic_bn": "শ্রম আদালত", "summary": "Establishment and jurisdiction of labour courts for industrial disputes."}
+    ]
+  }
+]
